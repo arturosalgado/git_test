@@ -3,5 +3,5 @@ este es el widget de arturo
 como dasa hago otra modificacion que necesitas 
 y le aviento el push
 
-counterForAll = 10
+counterForAll = 20
 
